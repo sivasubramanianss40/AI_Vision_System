@@ -1,6 +1,6 @@
 # 🧠 Siva's Simple Vision AI System
 
-A real-time AI system combining **face recognition**, **object detection**, and **hand gesture detection** using YOLOv8, Swin Transformer (few-shot learning), and MediaPipe.
+A real-time AI system combining **face recognition**, **object detection**, and **hand gesture detection** using YOLOv10, Swin Transformer (few-shot learning), and MediaPipe.
 
 ---
 
@@ -18,7 +18,7 @@ A real-time AI system combining **face recognition**, **object detection**, and 
 Ensure these paths are correct in your code:
 
 model_path = "./Documents/face/swin_fewshot_model.pt"
-yolo = YOLO("yolov8n.pt")
+yolo = YOLO("yolov10n.pt")
 
 
 ---
