@@ -7,7 +7,7 @@ A real-time AI system combining **face recognition**, **object detection**, and 
 ## ✅ Features
 
 - Face recognition (few-shot Swin Transformer)  
-- Object detection (YOLOv8)  
+- Object detection (YOLOv10n)  
 - Right/Left hand classification (MediaPipe)  
 - Dynamic label logic (e.g., `"Siva"`, `"Siva with bottle"`, `"Siva showing Right Hand"`)
 
